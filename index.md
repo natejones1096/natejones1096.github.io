@@ -1,5 +1,14 @@
+---
+## Nathan Jones Portfolio
+---
 
+### Project 1
 
+![It's Fine Alt Text](Previews/Project1Preview.PNG)
+
+### Project 2
+
+![It's Fine Alt Text](Previews/Project2Preview.PNG)
 
 ### Markdown
 
