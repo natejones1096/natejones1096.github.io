@@ -6,8 +6,12 @@
 
 ![It's Fine Alt Text](Previews/Project1Preview.PNG)
 
-### Project 2
+# My first project in GES 486 was the creation of an elevation map for Baltimore. I had wished to create a flood vulnerability index through this but ultimately I couldn't make that happen. However, I consider this elevation map one of the most aesthetically pleasing maps I have ever created. 
 
+# I made this map starting out from a DEM of Maryland that I clipped to Baltimore. I used the Re-classify tool to reform the elevation values in terms of census blocks, and properties in the city. I utilized different transparency values and color ramps in order to allow the TIFFs to seamlessly lay on top of each other.
+
+### Project 2
+c
 ![It's Fine Alt Text](Previews/Project2Preview.PNG)
 
 ### Markdown
