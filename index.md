@@ -11,8 +11,12 @@
 ### I made this map starting out from a DEM of Maryland that I clipped to Baltimore. I used the Re-classify tool to reform the elevation values in terms of census blocks, and properties in the city. I utilized different transparency values and color ramps in order to allow the TIFFs to seamlessly lay on top of each other.
 
 # Project 2
-c
+
 ![It's Fine Alt Text](Previews/Project2Preview.PNG)
+
+### My second project in GES 486 was a group of Black population maps for the state of maryland in 3 different years. The years I chose were 2000, 2010, and 2017. I utilized various counts of census data and estimates in order to get the data for this. A lot of time was spent in excel combing through data, cutting out information that was non-hispanic or hispanic estimates (as I wanted both), cutting away fields that were of the wrong locations, as well as making calculations of percentages or totals due to lapses in local totals in certain counties some years (2000 data especially required this.)
+
+### I hit quite a few roadblocks on this thing along the way but I am ultimately happy with the way this turned out. A lot of the symbology came together the day I finally submitted it, as it was bugging or refusing to appear for a long time. I was able to express the legend in a pretty solid way as well.
 
 ### Markdown
 
