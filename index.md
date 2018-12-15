@@ -26,7 +26,11 @@
 
 # Project 3
 
+![It's Fine Alt Text](Previews/Project3Preview.PNG)
 
+# Project 4
+
+![It's Fine Alt Text](Previews/Project4Preview.PNG)
 
 ### Markdown
 
