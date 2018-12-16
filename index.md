@@ -26,11 +26,17 @@
 
 ![It's Fine Alt Text](Previews/Project3Preview.PNG)
 
+  My third project on display here was the second GES 486 lab which had use clip an elevation tiff to a raster of the state of Maryland, and then convert it to a vector format with 5 different elevation category. We were given the freedom to classify the elevation classes how we wished, and I decided to classify it in a way that expressed the complexity and variation of the mountainous regions in the western, and northern, parts of Maryland.
+
+  The main drawback in expressing the elevation this way is that it sacrificed the differences in the low elevation and sea-level regions from the piedmont to the atlantic coastal plains of eastern Maryland. Had the goals of the project encouraged us to use more than 5 elevation classes, I likely would have expressed the differences between those regions instead of making much of the eastern and central parts of the state appear uniform in elevation heights.
+
 
 
 # Project 4
 
 ![It's Fine Alt Text](Previews/Project4Preview.PNG)
+
+  My fourth project on display was the first GES 486 lab of the semester which simply had us make a map of Baltimore in terms of pre-determined land use classes. I took the chance to be very artistically inclined with this map and used combinations of various color gradients to make each land use classification appear distinctly coloured. I was trying to balance a few things here, where I wanted many of the classes to pop out brightly and confidently, but not so much that it was gaudy or painful to stare at for too long, as well as allowing the different classes to still be useful for understanding the information that the map tries to convey. 
 
 ### Markdown
 
