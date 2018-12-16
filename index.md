@@ -12,7 +12,7 @@
 
 <small>__Tools__: QGIS, ArcGIS</small>
 
-<small>__Data__: MD iMAP</small>
+<small>__Data__: [MD iMAP](https://imap.maryland.gov/Pages/lidar-dem-download-files.aspx)</small>
 
 ## Project 2
 
@@ -28,7 +28,7 @@
   
   <small>__Tools__: QGIS </small>
   
-  <small>__Data__: Census.Gov, Wikipedia</small>
+  <small>__Data__: [Census.Gov](https://www.census.gov/quickfacts/md), [Wikipedia](https://en.wikipedia.org/wiki/Montgomery_County,_Maryland#2000_census) (For 2000 Total Calculations by County) </small>
 
 ## Project 3
 
