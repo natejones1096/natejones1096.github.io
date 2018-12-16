@@ -10,6 +10,10 @@
 
   This project allowed me to portray a map of Baltimore's elevation in a way I'd never tried before. The gradients going on allow for easy understanding of the relative elevations in the city, with the lowest areas to the south and east, and the highest areas to the north and west.
 
+<small>__Tools__: QGIS, ArcGIS</small>
+
+<small>__Data__: MD iMAP</small>
+
 ## Project 2
 
 ![It's Fine Alt Text](Previews/Project2Preview.PNG)
@@ -21,6 +25,10 @@
   Montgomery, Howard, Baltimore, Anne Arundel Counties have hosted a modest and increasing Black Population. These areas largely suburban and middle class populations reflect sects of upward mobility and recent history of 'black flight'. However, Prince Georges' County hosts some of the largest and richest black communities in country, while also harboring great inequity and segregation among black communities. This has only increased over the past few decades.
 
   I hit quite a few roadblocks on this thing along the way but I am ultimately happy with the way this turned out. A lot of the symbology came together the day I finally submitted it, as it was bugging or refusing to appear for a long time. I was able to express the legend in a pretty solid way as well.
+  
+  <small>__Tools__: QGIS </small>
+  
+  <small>__Data__: Census.Gov, Wikipedia</small>
 
 ## Project 3
 
@@ -30,13 +38,19 @@
 
   The main drawback in expressing the elevation this way is that it sacrificed the differences in the low elevation and sea-level regions from the piedmont to the atlantic coastal plains of eastern Maryland. Had the goals of the project encouraged us to use more than 5 elevation classes, I likely would have expressed the differences between those regions instead of making much of the eastern and central parts of the state appear uniform in elevation heights.
 
+<small>__Tools__: QGIS</small>
 
+<small>__Data__: Provided By Instructor </small>
 
 # Project 4
 
 ![It's Fine Alt Text](Previews/Project4Preview.PNG)
 
   My fourth project on display was the first GES 486 lab of the semester which simply had us make a map of Baltimore in terms of pre-determined land use classes. I took the chance to be very artistically inclined with this map and used combinations of various color gradients to make each land use classification appear distinctly coloured. I was trying to balance a few things here, where I wanted many of the classes to pop out brightly and confidently, but not so much that it was gaudy or painful to stare at for too long, as well as allowing the different classes to still be useful for understanding the information that the map tries to convey. 
+  
+<small>__Tools__: QGIS</small>
+
+<small>__Data__: Provided By Instructor </small>
 
 ### Markdown
 
