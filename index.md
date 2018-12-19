@@ -59,7 +59,7 @@ For my final project I would like to make a precipitation intensity map for Mary
 
 ## Result
 
-(MD_Precipitation_Final_Project.png)
+![It's Fine Alt Text](MD_Precipitation_Final_Project.png)
 
 ### Markdown
 
