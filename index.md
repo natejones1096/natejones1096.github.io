@@ -69,7 +69,7 @@ I consider this project largely a success, albeit a simple one, because it does 
 
 <small>__Tools__: QGIS</small>
 
-<small>__Data__: [AHPS Geotiffs](https://water.weather.gov/precip/),[CDO csv spreadsheet data](https://www.ncdc.noaa.gov/cdo-web/), iMAP [MD County Boundaries](http://data.imap.maryland.gov/datasets/4c172f80b626490ea2cff7b699febedb_1) </small>
+<small>__Data__: [AHPS Geotiffs](https://water.weather.gov/precip/), [CDO csv spreadsheet data](https://www.ncdc.noaa.gov/cdo-web/), iMAP [MD County Boundaries](http://data.imap.maryland.gov/datasets/4c172f80b626490ea2cff7b699febedb_1) </small>
 
 ### Markdown
 
