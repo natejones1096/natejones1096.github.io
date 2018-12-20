@@ -61,6 +61,16 @@ For my final project I would like to make a precipitation intensity map for Mary
 
 ![It's Fine Alt Text](MD_Precipitation_Final_Project.png)
 
+Ultimately I did succeed in making precipitation intensity maps for Maryland for November 2018 and the previous 365 day period before December 18th 2018. I used the National Weather Service's [advanced hydrologic prediction service website](https://water.weather.gov/precip/) to acquire data from these periods that came in a geotiff format. Instructions were given for expressing symbology in a way that was standard for precipitation data. The geotiffs came with several bands including a band of observed precipitation, as well as a band of 'prism normal' precipitation. I used these bands to visualize the information I previously mentioned, as well as to create as few maps of 'average' precipitation values in Maryland and surrounding areas. I had effectively made of all these maps on the 18th, the same day I uploaded them on here, because that was the same day I happened upon the AHPS data that allowed me to make these.
+
+The map at the top was effectively my first attempt at symbolizing and visualizing precipitation data. I had acquired weather station data within of points on the 16th and had intended to use those points as heatmap locations, or spots to perform zonal statistics from the county data on. Unfortunately, despite a few hours of combing through and matching the datasets I found via NOAA's [CDO Website](https://www.ncdc.noaa.gov/cdo-web/) via the mapping tool, my locations came with incorrect coordinates (or maybe were in a different projection from mine), because they all appeared around Maryland, but significantly off from their actual locations. Thus, that map just turned out to be a failed prototype - even though the november precipitation values that I visualized there do reflect the november precipitation values I got with the AHPS data. I had attempted to fix my weather station locations through geocoding or manually fixing the coordinates but ultimately I did not have enough time left to follow through on that, and elected to devote the time I had left on making the AHPS maps.
+
+I consider this project largely a success, albeit a simple one, because it does effectively convey the higher rates of precipitation over the last year, as well as in the recent month of November. If I had time to improve this project I would've fixed my station points and possibly incorporated thunderstorm or lightning data, like I had expressed a desire to do in the prior write-up.
+
+<small>__Tools__: QGIS</small>
+
+<small>__Data__: [AHPS Geotiffs](https://water.weather.gov/precip/),[CDO csv spreadsheet data](https://www.ncdc.noaa.gov/cdo-web/), iMAP [MD County Boundaries](http://data.imap.maryland.gov/datasets/4c172f80b626490ea2cff7b699febedb_1) </small>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
